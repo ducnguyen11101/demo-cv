@@ -12,7 +12,7 @@ Cài đặt các thư viện:
 
 ```bash
 $ git clone https://github.com/ducnguyen11101/demo-cv.git
-$ cd
+$ cd Download_vid
 $ python 3 -m venv venv
 $ source venv/bin/activate
 $ pip3 install .
