@@ -11,5 +11,9 @@ Cài đặt các thư viện:
 ## Tải dự án
 
 ```bash
-$ git clone
+$ git clone https://github.com/ducnguyen11101/demo-cv.git
+$ cd
+$ python 3 -m venv venv
+$ source venv/bin/activate
+$ pip3 install .
 ```
